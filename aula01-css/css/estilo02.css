@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background-color: #d14836;
+    line-height: 20px;
+}
+
+#top h1 {
+    margin: 0;
+    line-height: 50px;
+}
+
+#top{
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+    line-height: 26px;
+}
